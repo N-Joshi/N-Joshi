@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Naman Joshi - aka [N-Jo]
 
-## I'm a Full Stack Web Developer, Data Science Explorer and Learner!
+## I'm a Full Stack Web Developer, Tech Explorer and Learner!
 - 🧑‍💼 I’m currently working at Cognizant!
 - 🤓 I learn what I like so I try learning all 😃
 
