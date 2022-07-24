@@ -45,5 +45,5 @@
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=n-joshi" />
 
 [website]: https://vigorous-cori-4eb7d3.netlify.app/
-[instagram]: https://www.instagram.com/its_namanjoshi/
+[instagram]: https://www.instagram.com/travel__with__njoshi/
 [linkedin]: https://www.linkedin.com/in/namanjoshi/
