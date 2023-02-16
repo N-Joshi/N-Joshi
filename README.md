@@ -6,7 +6,6 @@
 
 ### Connect with me:
 
-[<img align="left" alt="web portfolio" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="naman | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="naman | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
@@ -33,14 +32,6 @@
 
 ---
 
-### 💻 Portfolio Links
-<!-- PORTFOLIO-LIST:START -->
-<!--- [Data Science Portfolio](https://vikalpkaushik.netlify.app)-->
-- [Web Development Portfolio][website]
-
-<!-- PORTFOLIO-LIST:END -->
-
----
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=n-joshi" />
 
